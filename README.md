@@ -1,6 +1,4 @@
-# AtliQ Grands Hospitality Revenue Insights
-
-## Hospitality Domain – Data Analytics Project Challenge By Codebasics
+# Hospitality Revenue Insights
 
 ## Project Overview
 This project is part of the Codebasics Resume Challenge, aiming to provide valuable business and data intelligence insights to AtliQ Grands, a chain of five-star hotels in India. The objective is to analyze historical data and create a Power BI dashboard to help AtliQ Grands regain its market share and revenue in the luxury/business hotel category.
